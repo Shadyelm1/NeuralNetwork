@@ -19,8 +19,13 @@ To run the neural network, simply execute the script:
 The script will train the model on the spiral dataset and print the loss and accuracy at every 1000 epochs.
 
 Requirements
+
 Python 3
+
 NumPy
+
 NNFS (Neural Networks from Scratch library)
+
 Acknowledgments
+
 This implementation is based on the concepts and examples from the book "Neural Networks from Scratch" by Sentdex.
